@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-me-like-a-lynyrd-song/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Love Me Like a Lynyrd Song](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-me-like-a-lynyrd-song/) |
+| **Get License** | [Request Licensing for Love Me Like a Lynyrd Song](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-me-like-a-lynyrd-song/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a8f6cfab8bcf1af89eaf849d45970a0747211995f67a70293264913534b32f23` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
